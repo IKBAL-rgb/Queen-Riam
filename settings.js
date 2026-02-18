@@ -8,7 +8,7 @@ const settings = {
   ownerNumber: '+6287855076857', 
   AUTO_STATUS_REACT: 'false',
   AUTO_STATUS_REPLY: 'false',
-  AUTO_STATUS_MSG: 'Status Viewed Queen Riam',
+  AUTO_STATUS_MSG: 'Status Viewed Beta-Bot',
 
   AUTORECORD: 'true',
   AUTOTYPE: 'false',
