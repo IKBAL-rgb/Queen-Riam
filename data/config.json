@@ -2,9 +2,9 @@
   "AUTOREAD": "false",
   "AUTOTYPE": "false",
   "AUTORECORD": "false",
-  "AUTORECORDTYPE": "false",
+  "AUTORECORDTYPE": "true",
   "AUTO_STATUS_REACT": "false",
   "AUTO_STATUS_REPLY": "false",
-  "AUTO_STATUS_MSG": "Viewed By Riam",
+  "AUTO_STATUS_MSG": "Viewed By AunuRailways",
   "ANTICALL": "off"
 }
